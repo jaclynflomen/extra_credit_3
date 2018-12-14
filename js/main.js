@@ -14,6 +14,8 @@
             videotitle : "",
             videodescription : "",
             videosource : "",
+            moredata : "",
+            moreimg : "",
 
             showDetails : false,
 
@@ -38,14 +40,6 @@
             },
 
             /*
-
-            fetchSingle(e) {
-                this.fetchPortfolioData(e.currentTarget.dataset.port);
-            },
-
-            fetchReel(e) {
-                this.fetchPortfolioData(e.currentTarget.dataset.pro_category1 = 'web');
-            }
             
             */
 
@@ -59,6 +53,8 @@
                 this.videotitle = currentData[0].vid_name;
                 this.videodescription = currentData[0].vid_desc;
                 this.videosource = dataKey;
+                this.moredata = currentData[0].synopsis;
+                this.moreimg = currentData[0].more_thumb;
 
                 this.showDetails = true;
 

@@ -1,4 +1,4 @@
-# Video Poster Assignment
+# Extra Credit 3
 
 This project is an informative and interactive website that displays detailed information and photo/video of The Avengers, Star Wars: The Force Awakens, and Stranger Things. It is aimed to inform users on the subject in an interesting, yet educational way.
 
@@ -18,7 +18,7 @@ $ git init
 ```
 Clone this repository
 ```
-$ git clone https://github.com/spittis/extra-credit3.git
+$ git clone https://github.com/jaclynflomen/extra-credit_3.git
 ```
 $ cd extra-credit3
 ```
@@ -32,7 +32,7 @@ Open the index.html in a browser, Chrome works best
 
 ## Authors
 
-* **Soraya Pittis** - [spittis](https://github.com/spittis)
+* **Jaclyn Flomen** - [jaclynflomen](https://github.com/jaclynflomen)
 
 
 ## License
